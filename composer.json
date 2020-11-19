@@ -1,0 +1,11 @@
+{
+    "name": "lens/tools",
+    "description": "a tools package",
+    "authors": [
+        {
+            "name": "菩提无术",
+            "email": "26809347@qq.com"
+        }
+    ],
+    "require": {}
+}
